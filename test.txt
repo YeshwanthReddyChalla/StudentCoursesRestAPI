@@ -1,1 +1,2 @@
 echo "Hi Hyderabad"
+echo "pwd"
